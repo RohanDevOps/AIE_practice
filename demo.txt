@@ -9,3 +9,8 @@ Kaise ho? jadx
 Testing the merge operation!
 
 Lets begin!
+<<<<<<< HEAD
+=======
+
+Chaliye shuru karte hai!
+>>>>>>> rohan
